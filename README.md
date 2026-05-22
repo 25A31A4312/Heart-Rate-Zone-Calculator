@@ -373,3 +373,5 @@ Heart Rate Zone Calculator is an interactive healthcare and fitness monitoring a
 The project demonstrates frontend development, healthcare visualization, and real-time BPM monitoring while promoting digital healthcare awareness and fitness tracking.
 
 here is our project demo link :
+
+ https://25a31a4312.github.io/Heart-Rate-Zone-Calculator/
